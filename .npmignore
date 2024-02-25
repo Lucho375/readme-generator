@@ -1,0 +1,9 @@
+node_modules
+.eslintrc.cjs
+.git
+.gitignore
+.vscode
+*.ts
+.prettierignore
+.prettierrc
+.tsconfig.json
